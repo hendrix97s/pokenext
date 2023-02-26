@@ -2,7 +2,7 @@ export function Footer()
 {
   return (
     <>
-    <div className="w-full h-[4rem] flex flex-col items-center justify-center text-gray-400">
+    <div className="w-full h-[4rem] flex flex-col items-center justify-center text-gray-600">
       <p>
         © 2023 LF System
       </p>
